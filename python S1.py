@@ -1,2 +1,0 @@
-p ="gyhtyh"
-print(p)
