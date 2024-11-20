@@ -1,0 +1,2 @@
+p ="gyhtyh"
+print(p)
